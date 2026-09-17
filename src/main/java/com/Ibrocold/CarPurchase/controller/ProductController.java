@@ -21,7 +21,7 @@ public class ProductController {
 
     @GetMapping("/")
     public String greet(){
-        return "Welcome To JadooBabs Hub";
+        return "Welcome To Cars Hub";
     }
 
     @GetMapping("/products")
